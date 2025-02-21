@@ -42,6 +42,7 @@
   * [波场TRX] https://github.com/tronprotocol/java-tron
   * [ATOM]https://github.com/cosmos/cosmos-sdk
   * [viabtc开源矿池] https://github.com/viabtc/viabtc_mining_server
+  * IOTA https://www.iota.org/solutions/technologies
 
 5. 加密货币开源钱包
   * [比特币钱包] https://github.com/bitcoin-wallet/bitcoin-wallet
